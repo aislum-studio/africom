@@ -7,3 +7,7 @@ Located and registered at: Nungwi - Zanzibar - Tanzania
 Phone Number: +255 772 754 417
 
 Company Type: Transfers, Tours and Safari in Tanzania Region.
+
+Public directory is Accessible directory by browser url.
+home/zanzibarafricomtours.com/public
+
